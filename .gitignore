@@ -1,0 +1,21 @@
+# Original Codebasics course material (third-party, reference only, not redistributed)
+project-codebasics/
+
+# Internal planning and study notes (private, feed a separate personal
+# tutoring project; not part of the public presentation of this pipeline)
+ROTEIRO.md
+NOTAS.md
+material_estudo/
+
+# Draft docs pending a decision before going public
+docs_draft/
+
+# Local Docker + MinIO exploration runtime state (created by docker-compose up,
+# not checked in even though the route itself is kept as reference)
+minio-data/
+
+# OS / editor / notebook junk
+.DS_Store
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
