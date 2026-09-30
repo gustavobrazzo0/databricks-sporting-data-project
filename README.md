@@ -44,7 +44,7 @@ merged into the parent company's tables, for example gold.hn_dim_customers.
 ## Repository structure
 
 ```
-cairn-bolt-lakehouse/
+databricks-sporting-data-project/
 +-- README.md
 +-- NAMING_MAP.md               (full name, currency and city mapping, Portuguese)
 +-- CONVENCOES.md               (documentation conventions used while building this, Portuguese)
